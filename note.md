@@ -32,3 +32,10 @@
 ### 개발용 라이브러리(devDependencies)
 
 - 개발을 할 때 도와주는 보조 라이브러리, (예. "webpack", "js-compression", "sass")
+
+<br>
+
+# 개발용 라이브러리와 배포용 라이브러리 구분
+
+- npm i ~ (개발용)
+- npm i ~ --save-dev 혹은 npm i ~ --D (배포용)
